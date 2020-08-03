@@ -24,5 +24,3 @@ export default {
 }
 
 </style>
-
-https://github.com/Shpakovich/JS-project.git
