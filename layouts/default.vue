@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="main-layouts">
     <nuxt/>
   </div>
 </template>
@@ -14,6 +14,10 @@ html {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   box-sizing: border-box;
+}
+
+.main-layouts{
+  padding: 10px;
 }
 
 *, *:before, *:after {

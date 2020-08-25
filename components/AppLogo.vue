@@ -7,6 +7,12 @@
   </div>
 </template>
 
+<script>
+export default {
+  name: 'AppLogo'
+}
+</script>
+
 <style>
 .VueToNuxtLogo {
   display: inline-block;

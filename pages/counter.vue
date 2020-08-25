@@ -24,6 +24,8 @@
 
 export default {
 
+  layout: 'project',
+
   data: () => ({
     counter: 0
   }),
